@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:id="@+id/File">
+    <item android:id="@+id/OpenFile" android:title="Open"></item>
+    <item android:id="@+id/SaveFile" android:title="Save"></item>
+    <item android:id="@+id/CloseFile" android:title="Close"></item>
+</group>
+    <group android:id="@+id/Other">
+        <item android:id="@+id/Test" android:title="Test"></item>
+    </group>
+</menu>
